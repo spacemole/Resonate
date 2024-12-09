@@ -29,5 +29,3 @@ Use either VueJS, Angular or React
 Make it visually appealing
 No need to implement Create/Update/Delete
 Provide instructions on how to run the code
-
-npm run dev
