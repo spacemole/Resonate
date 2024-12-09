@@ -22,6 +22,8 @@ example
 (storenumber)(date)(code between 1 and 10000)
 obifscate code so that users cannot guess codes
 
+---
+
 Q2: Real world problem
 Write a responsive “Contacts” application that allows the user to browse their contacts:
 Make use of https://jsonplaceholder.typicode.com/ (/users are the contacts)
